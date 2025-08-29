@@ -10,5 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - The module consists of module with your own discord card and a server member list.
 - The module will show each online user's status as well including games they are playing and content they are streaming.
-- Discord API calls are made each minute to update each user's information.
+- Discord API calls are made 15 seconds to update each user's information.
 - Styling will change depending on the user's status.
