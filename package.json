@@ -1,0 +1,8 @@
+{
+  "name": "MMM-DiscordStatus",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
